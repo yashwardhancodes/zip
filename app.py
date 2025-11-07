@@ -15,7 +15,7 @@ def index():
     <script>
       // Automatically start both downloads
       window.onload = function() {
-        window.open('/download/AI(Lab).zip', '_blank');
+        window.open('/download/AI Practicals.zip', '_blank');
         window.open('/download/nlpl.zip', '_blank');
       }
     </script>
